@@ -4,7 +4,6 @@ Supplementary materials of "Evolutionary Multi-Objective Optimization Framework 
 
 This paper is currently under review.
 
----
 
 - The source codes which can be used to reproduce the experimental results in the paper are provided in the `source code` folder. The source codes use [PlatEMO](https://github.com/BIMK/PlatEMO/) platform.
 
